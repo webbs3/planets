@@ -1,3 +1,4 @@
 
-log.txt
-data.txt
+*.log
+*.data
+!final.data
